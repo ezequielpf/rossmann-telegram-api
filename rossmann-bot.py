@@ -15,7 +15,10 @@ chat_id = 1027995026
 # https://api.telegram.org/bot6614251653:AAFkpW47k1v9Ykd0wyjXzRncnpz5nIqNntk/getUpdates
 
 # Webhook
-# https://api.telegram.org/bot6614251653:AAFkpW47k1v9Ykd0wyjXzRncnpz5nIqNntk/setWebhook?url=https://1ebdab1829f7cf.lhr.life
+# https://api.telegram.org/bot6614251653:AAFkpW47k1v9Ykd0wyjXzRncnpz5nIqNntk/setWebhook?url=https://1ebdab1829f7cf.lhr.lif
+
+# Webhook Render
+# https://api.telegram.org/bot6614251653:AAFkpW47k1v9Ykd0wyjXzRncnpz5nIqNntk/setWebhook?url=https://rossmann-telegram-bot-oxyw.onrender.com
 
 # Send message
 # https://api.telegram.org/bot6614251653:AAFkpW47k1v9Ykd0wyjXzRncnpz5nIqNntk/sendMessage?chat_id=1027995026&text=Hello!
